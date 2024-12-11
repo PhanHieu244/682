@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Air Platform
+  - Gun
+  - PlayerBulletYellow
+  - Blade
+  - AirShooterAlien
+  - AlienBullet
+  - FourSpikesAlien
+  - SingleEyeAlien
+  - SpikesAlien
+  - playParticle
+  - Star
+  - AlienKillCollider
+  - ObstacleKillCollider
+  - BulletPowerupBlue
+  - BulletPowerupGreen
+  - BulletPowerupRed
+  - Checkpoint
+  - RespawnPlayer
+  - Score
+  - Fade
+  - LevelComplete
+  - ChainBlade
+  - ObstacleAppearCollider
+  - LeftCollider
+  - CheckpointText
+  - PlayerCar
+  - AlienSpawner
+  - StarSpawner
+  - SettingsAnimPanel
+  - MainMenuManager
+  - PlayerBulletGreen
+  - PlayerBulletRed
+  - ElectricShockAlien
+  - ElectricCurrentParticle
+  - ShieldAlien
+  - ShieldAlienShield
+  - ShieldAlienHealthCollider
+  - ShieldAlienBullet
+  - Bone Alien
+  - RightCollider
+  - Boss1
+  - Boss1 Bullet
+  - AudioSources
+  - SetPlayerParent
+  - ChainWheel
+  - Current Paul
+  - Mad Runner Alien
+  - Small Alien
+  - Spikes
+  - Bomb Alien
+  - Bomb
+  - Bomb Blast Particle
+  - Spaceship Alien
+  - Spaceship Alien ball
+  - Ghost Alien
+  - Poision Particle
+  - Circle Spikes Alien
+  - Tope Bullet
+  - Tope
+  - Boss Laser
+  - Boss2
+  - Health Gainer
+  - Admob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Jumping jack
+  - Alien
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
